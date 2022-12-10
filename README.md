@@ -28,7 +28,6 @@ _In this great application you see live data about the financial world; ranging 
 * For the second api call which is for converting dollar to naira: YOu would be needing a key here. Go to the (openexchangerates.org) website, create a developer account, get you api key, protect your api key with a .env file
 * Still for the 2nd api: The name you gave to the variable storing your apikey in your .env file should overwrite mine
 (just do ${process.env.YOUR_API_KEY_NAME})
-* Aslo; I added this 
 * NOTE: This is the version 1.2.0(the fetch version) we've all been waiting for, stay tuned for the Async and Await version(version 1.3.0) which is coming soon 
 
 ## Detected Bugs/ Issues
